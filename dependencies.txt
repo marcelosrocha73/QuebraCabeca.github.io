@@ -10,7 +10,6 @@ com.unity.microsoft.gdk.tools@1.5.1
 com.unity.multiplayer.center@1.0.1
 com.unity.playworks.upp@7.2.0
 com.unity.purchasing@5.4.3
-com.unity.services.cloud-build@2.0.8
 com.unity.test-framework@1.6.0
 com.unity.timeline@1.8.11
 com.unity.ugui@2.0.0
